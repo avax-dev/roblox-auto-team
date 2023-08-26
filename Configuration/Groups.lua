@@ -25,7 +25,7 @@ local Group = {
 			Usernames = {"Player 1", "Player 3"}
 		},
 		["Developers"] = {
-			Usernames = {"lesterleal", "AvaxDev"}
+			Usernames = {"Player2", "Player4"}
 		},
 	}
 }
