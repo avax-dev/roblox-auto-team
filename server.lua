@@ -1,5 +1,4 @@
 local AutoTeam = require(script.Parent.Modules.AutoTeam)
-local Group = require(script.Parent.Configuration.Groups)
 
 game.Players.PlayerAdded:Connect(function(player)
 	local player_joining = AutoTeam.new(player)
